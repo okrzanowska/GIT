@@ -19,15 +19,21 @@
 
   ![14](https://github.com/okrzanowska/GIT/blob/main/14.png)
 
-  Sprawdziłam status repozytorium i wyświetliło się, że została dokonana zmiana w pliku.
+  Sprawdziłam status repozytorium i wyświetliło się, że plik _note1.txt_ został zmodyfikowany.
   
   ![15](https://github.com/okrzanowska/GIT/blob/main/15.png)
 
-  Dokładnie w ten sam sposób edytowałam plik _note2.txt_ oraz sprawdziłam status tylko tego pliku w repozytorium.
+  Dokładnie w ten sam sposób edytowałam plik _note2.txt_ oraz sprawdziłam status tylko tego, jednego pliku w repozytorium.
 
   ![16](https://github.com/okrzanowska/GIT/blob/main/16.png)
 
   ![17](https://github.com/okrzanowska/GIT/blob/main/17.png)
+
+  Dodałam pliki, zacommitowałam zmiany oraz wyświetliłam historię zmian w repozytorium przy pomocy komendy _git log_.
+
+  ![18](https://github.com/okrzanowska/GIT/blob/main/18.png)
+
+  W ten sposób spełniłam założenia zadania drugiego.
 
   
 
