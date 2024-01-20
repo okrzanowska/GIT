@@ -44,7 +44,7 @@
 
   ![9](https://github.com/okrzanowska/GIT/blob/main/9.png)
 
-  Commituje zmiany za pomocą komendy _git commit_ z atrybutem _-m_, aby dodać do commitu informację, w jakim celu powstał oraz ponownie sprawdzam status repozytorium.
+  Commituje zmiany za pomocą komendy _git commit_ z atrybutem _-m_, aby dodać do commitu informację oraz ponownie sprawdzam status repozytorium.
 
   ![10](https://github.com/okrzanowska/GIT/blob/main/10.png)
 
