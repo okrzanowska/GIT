@@ -20,7 +20,18 @@
   ![14](https://github.com/okrzanowska/GIT/blob/main/14.png)
 
   Sprawdziłam status repozytorium i wyświetliło się, że została dokonana zmiana w pliku.
+  
+  ![15](https://github.com/okrzanowska/GIT/blob/main/15.png)
 
+  Dokładnie w ten sam sposób edytowałam plik _note2.txt_ oraz sprawdziłam status tylko tego pliku w repozytorium.
+
+  ![16](https://github.com/okrzanowska/GIT/blob/main/16.png)
+
+  ![17](https://github.com/okrzanowska/GIT/blob/main/17.png)
+
+  
+
+  
   
 
   
