@@ -1,6 +1,6 @@
 # Zadanie 1
-- Utwórz katalog repo1 zawierający dwa pliki tekstowe z dowolną, różną zawartością.
-- Utwórz w tym katalogu repozytorium git i sprawdź jego status.
+- Utwórz katalog _repo1_ zawierający dwa pliki tekstowe z dowolną, różną zawartością.
+- Utwórz w tym katalogu repozytorium Git i sprawdź jego status.
 - Dodaj do niego wszystkie pliki z tego katalogu i sprawdź stan repozytorium.
 - Zakomituj zmiany i sprawdź stan repozytorium.
 
