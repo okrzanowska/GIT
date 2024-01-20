@@ -7,5 +7,7 @@
   ## Wykonanie zadania:
 
   Najpierw przedstawiam się terminalowi, aby wiedział kto dokonuje zmian :)
+  
   ![name](https://github.com/okrzanowska/GIT/blob/main/name.png)
+  
   ![email](https://github.com/okrzanowska/GIT/blob/main/email.png)
