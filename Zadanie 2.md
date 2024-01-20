@@ -19,6 +19,8 @@
 
   ![14](https://github.com/okrzanowska/GIT/blob/main/14.png)
 
+  Sprawdziłam status repozytorium i wyświetliło się, że została dokonana zmiana w pliku.
+
   
 
   
