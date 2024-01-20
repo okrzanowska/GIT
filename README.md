@@ -8,7 +8,7 @@ Repozytorium zawiera rozwiązania zadań z systemu kontroli wersji Git wraz z zr
 
 [Zadanie 2](https://github.com/okrzanowska/GIT/blob/main/Zadanie%202.md)
 
-[Zadanie 3](https://github.com/okrzanowska/GIT/blob/main/Zadanie3.md)
+[Zadanie 3](https://github.com/okrzanowska/GIT/blob/main/Zadanie%203.md)
 
 [Zadanie 4](https://github.com/okrzanowska/GIT/blob/main/Zadanie4.md)
 
