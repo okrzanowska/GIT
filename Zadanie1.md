@@ -29,6 +29,29 @@
   
   ![4](https://github.com/okrzanowska/GIT/blob/main/4.png)
 
+  ![5](https://github.com/okrzanowska/GIT/blob/main/5.png)
+
   Następnym założeniem zadania jest stworzenie repozytorium oraz sprawdzenie jego statusu.
+  Wykonuję je za pomocą komend _git init_ oraz _git status_.
+
+  ![6](https://github.com/okrzanowska/GIT/blob/main/6.png)
+
+  ![7](https://github.com/okrzanowska/GIT/blob/main/7.png)
+
+  Dodaję pliki do repozytorium przy pomocy komendy _git add_ i ponownie sprawdzam status.
+
+  ![8](https://github.com/okrzanowska/GIT/blob/main/8.png)
+
+  ![9](https://github.com/okrzanowska/GIT/blob/main/9.png)
+
+  Commituje zmiany za pomocą komendy _git commit_ z atrybutem _-m_, aby dodać do commitu informację, w jakim celu powstał oraz ponownie sprawdzam status repozytorium.
+
+  ![10](https://github.com/okrzanowska/GIT/blob/main/10.png)
+
+  ![11](https://github.com/okrzanowska/GIT/blob/main/11.png)
+
+  W ten sposób wypełniam wszystkie założenia zadania pierwszego.
+  
+  
 
   
