@@ -16,7 +16,8 @@
   
   ![23](https://github.com/okrzanowska/GIT/blob/main/23.png)
 
-  Natępnie utworzyłam katalog _repo2_, a w nim puste repozytorium do którego sklonowałam _repo1_.
+  Natępnie przy pomocy komendy _git clone_ utworzyłam katalog _repo2_ z zawartością
+  _repo1_.
   
   ![24](https://github.com/okrzanowska/GIT/blob/main/24.png)
 
